@@ -55,6 +55,8 @@ Partner - whether the customer has a partner or not (Yes, No).
 
 Dependents - whether the customer has a dependents or not (Yes,No)
 
+The dataset is available at: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 # EDA
 Follow the EDA section within the jupyter notebook to understand visually how the data is distributed
 
